@@ -1,0 +1,37 @@
+.container{
+    background-color: white;
+    padding: 20px;
+}
+ .apps{
+    display: flex;
+    flex-direction: row;
+ }
+
+ #phone{
+    display: flex;
+    grid-template-columns: 50%;
+ }
+
+.container1{
+    display: inline;
+    padding-top: 20px;
+    width: 10px;
+    margin: 0, auto;
+    }
+  .container2{
+    display: flex;
+  }
+#email{
+    display: flex;
+    gap: 20%;
+}
+
+#navbar{
+    list-style: none;
+    display: flex;
+    gap: 5%;
+}
+.container3{
+    display: flex;
+    gap: 10%;
+}
